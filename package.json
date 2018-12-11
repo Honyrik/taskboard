@@ -1,0 +1,13 @@
+{
+  "name": "agile",
+  "version": "1.0.0",
+  "description": "Test task",
+  "scripts": {
+    "start": "node backend/index.js"
+  },
+  "author": "Ivan Artemov",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.28"
+  }
+}

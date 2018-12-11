@@ -1,0 +1,62 @@
+{
+    "1": {
+        "id": 1,
+        "num": "TSK-0001",
+        "summary": "Подключить Websocket",
+        "firstName": "Вася",
+        "lastName": "Пупкин",
+        "status": "PLAN",
+        "priority": "MUST",
+        "create": "2018-11-07T15:15:15"
+    },
+    "2": {
+        "id": 2,
+        "num": "TSK-0002",
+        "summary": "Подключить Back",
+        "firstName": "Петя",
+        "lastName": "Иванов",
+        "status": "PLAN",
+        "priority": "SHOULD",
+        "create": "2018-11-03T15:15:15"
+    },
+    "3": {
+        "id": 3,
+        "num": "TSK-0003",
+        "summary": "Разработать Front",
+        "firstName": "Вася",
+        "lastName": "Пупкин",
+        "status": "PLAN",
+        "priority": "COULD",
+        "create": "2018-11-07T11:15:15"
+    },
+    "4": {
+        "id": 4,
+        "num": "TSK-0004",
+        "summary": "Подключить Front",
+        "firstName": "Вася",
+        "lastName": "Пупкин",
+        "status": "PLAN",
+        "priority": "MUST",
+        "create": "2018-11-08T15:15:15"
+    },
+    "5": {
+        "id": 5,
+        "num": "TSK-0005",
+        "summary": "Добавить магию Websocket",
+        "firstName": "Петя",
+        "lastName": "Иванов",
+        "status": "IN PROGRESS",
+        "priority": "MUST",
+        "create": "2018-11-06T13:15:15"
+    },
+    "6": {
+        "id": 6,
+        "num": "TSK-0005",
+        "summary": "Изучить магию Front",
+        "firstName": "Вася",
+        "lastName": "Пупкин",
+        "status": "PLAN",
+        "priority": "SHOULD",
+        "create": "2018-11-07T15:15:15"
+    }
+}
